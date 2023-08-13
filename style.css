@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Eric Barone Concerned Ape</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+    <main id="main">
+        <h1 id="title">Eric Barone (Concerned Ape)</h1>
+        <p>The programmer who gave us Stardew Valley</p>
+        <figure id="img-div">
+            <img 
+            id="image"
+            src="https://upload.wikimedia.org/wikipedia/en/f/fd/Logo_of_Stardew_Valley.png"
+            alt="Eric Barone's creation Stardew Valley"
+            />
+            <figcaption id="img-caption">
+                Cover for Barone's 4.5 year solo project, Stardew Valley.
+            </figcaption>
+        </figure>
+        <section id="tribute-info">
+            <h3 id="headline">Quick Overview of Eric Barone's Life</h3>
+            <ul>
+                <li><strong>1987</strong>Born</li>
+                <li><strong>2011</strong>Graduated with a Computer Science Degree</li>
+                <li><strong>2012</strong>Began work on Stardew Valley</li>
+                <li><strong>2016</strong>Finished Stardew Valley</li>
+                <li><strong>2020</strong>Announced he was working on other gamesll</li>
+            </ul>
+            <h3>
+                Read about Eric Barone on
+                <a 
+                id="tribute-link"
+                href="https://en.wikipedia.org/wiki/Eric_Barone_(developer)"
+                target="_blank"
+                >Wikipedia</a>
+            </h3>
+        </section>
+    </main>
+    
+</body>
+</html>
